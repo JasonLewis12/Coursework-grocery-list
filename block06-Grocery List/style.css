@@ -1,0 +1,17 @@
+.sub-headers {
+  text-align: center;
+}
+.upper-list {
+  background-color: grey;
+  border: solid 5px;
+  padding: 10px;
+}
+.lower-list {
+  background-color: grey;
+  border: solid 5px;
+  padding: 10px;
+}
+img {
+  width: 500px;
+  padding: 50px;
+}
