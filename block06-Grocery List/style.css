@@ -1,15 +1,25 @@
 .sub-headers {
   text-align: center;
+  border: solid black;
+  background-color: gray;
 }
 .upper-list {
   background-color: grey;
   border: solid 5px;
   padding: 10px;
+  display: inline-block;
+  vertical-align: top;
+  height: 600px;
+  margin: 120px;
 }
 .lower-list {
   background-color: grey;
   border: solid 5px;
   padding: 10px;
+  display: inline-block;
+  vertical-align: top;
+  height: 600px;
+  margin: 120px;
 }
 img {
   width: 500px;
